@@ -1,2 +1,4 @@
 # hello-world
-simple learning exercise
+a simple learning exercise.
+
+Trying to learn how to code sing GIT
